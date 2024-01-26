@@ -1,4 +1,4 @@
-# SQL-PROJECT
+# SQL-project
 
 ## ZADÁNÍ
 
