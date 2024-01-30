@@ -33,9 +33,9 @@ Datové sady, které je možné použít pro získání vhodného datového podk
 ## DATOVÉ SADY
 Data pochází z Portálu otevřených dat ČR.
 
-[Primární tabulka](t_marek_hala_project_sql_primary_final.sql)
+[Primární tabulka](t_marek_hala_project_sql_primary_final.sql) - data mezd a cen potravin za Českou republiku mezi roky 2006 - 2018
 
-[Sekundární tabulka](t_marek_hala_project_sql_secondary_final.sql)
+[Sekundární tabulka](t_marek_hala_project_sql_secondary_final.sql) - HDP, Gini koeficient a populace evropských států mezi roky 2006 - 2018
 
 ## POSTUP
 
