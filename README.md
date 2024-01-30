@@ -11,6 +11,7 @@ Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a popul
 ## ANALÝZA
 
 ## POSTUP
+[Contribution guidelines for this project](vyzkumna_otazka_1.sql)
 
 ## VÝZKUMNÉ OTÁZKY
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
