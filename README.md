@@ -30,6 +30,7 @@ Datové sady, které je možné použít pro získání vhodného datového podk
     2. economies - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 
 
+
 ## DATOVÉ SADY
 Data pochází z Portálu otevřených dat ČR.
 
@@ -37,7 +38,7 @@ Data pochází z Portálu otevřených dat ČR.
 
 [Sekundární tabulka](t_marek_hala_project_sql_secondary_final.sql) - HDP, Gini koeficient a populace evropských států mezi roky 2006 - 2018
 
-## POSTUP
+
 
 ## VÝZKUMNÉ OTÁZKY
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
