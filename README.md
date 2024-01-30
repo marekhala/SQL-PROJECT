@@ -7,6 +7,28 @@ Potřebují k tomu od vás připravit robustní datové podklady, ve kterých bu
 
 Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR.
 
+Datové sady, které je možné použít pro získání vhodného datového podkladu
+
+**Primární tabulky:**
+
+    1. czechia_payroll – Informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
+    2. czechia_payroll_calculation – Číselník kalkulací v tabulce mezd.
+    3. czechia_payroll_industry_branch – Číselník odvětví v tabulce mezd.
+    4. czechia_payroll_unit – Číselník jednotek hodnot v tabulce mezd.
+    5. czechia_payroll_value_type – Číselník typů hodnot v tabulce mezd.
+    6. czechia_price – Informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
+    7. czechia_price_category – Číselník kategorií potravin, které se vyskytují v našem přehledu.
+
+**Číselníky sdílených informací o ČR:**
+
+    1. czechia_region – Číselník krajů České republiky dle normy CZ-NUTS 2.
+    2. czechia_district – Číselník okresů České republiky dle normy LAU.
+
+**Dodatečné tabulky:**
+
+    1. countries - Všemožné informace o zemích na světě, například hlavní město, měna, národní jídlo nebo průměrná výška populace.
+    2. economies - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
+
 
 ## DATOVÉ SADY
 Data pochází z Portálu otevřených dat ČR.
