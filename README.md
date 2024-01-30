@@ -11,7 +11,7 @@ Datové sady, které je možné použít pro získání vhodného datového podk
 
 **Primární tabulky:**
 
-    1. czechia_payroll – Informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
+    1. czechia_payroll – Informace o mzdách v různých odvětvích za několikaleté období. Data pochází z Portálu otevřených dat ČR.
     2. czechia_payroll_calculation – Číselník kalkulací v tabulce mezd.
     3. czechia_payroll_industry_branch – Číselník odvětví v tabulce mezd.
     4. czechia_payroll_unit – Číselník jednotek hodnot v tabulce mezd.
