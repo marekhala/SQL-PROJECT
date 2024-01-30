@@ -10,7 +10,9 @@ Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a popul
 
 ## DATOVÉ SADY
 Data pochází z Portálu otevřených dat ČR.
+
 [Primární tabulka](t_marek_hala_project_sql_primary_final.sql)
+
 [Sekundární tabulka](t_marek_hala_project_sql_secondary_final.sql)
 
 ## POSTUP
