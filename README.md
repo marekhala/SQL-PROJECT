@@ -8,7 +8,10 @@ Potřebují k tomu od vás připravit robustní datové podklady, ve kterých bu
 Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR.
 
 
-## ANALÝZA
+## DATOVÉ SADY
+Data pochází z Portálu otevřených dat ČR.
+[Primární tabulka](t_marek_hala_project_sql_primary_final.sql)
+[Sekundární tabulka](t_marek_hala_project_sql_secondary_final.sql)
 
 ## POSTUP
 
