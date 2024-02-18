@@ -58,6 +58,37 @@ V roce 2006 bylo možné si za průměrnou mzdu koupit 1312,99 kg chleba, nebo 1
 * [Datový podklad](vyzkumna_otazka_2.sql)
 
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
+
+| product_name                     | percentage_growth |
+|----------------------------------|-------------------|
+| Cukr krystalový                  | -1.92             |
+| Rajská jablka červená kulatá     | -0.74             |
+| Banány žluté                     | 0.81              |
+| Vepřová pečeně s kostí           | 0.99              |
+| Přírodní minerální voda uhličitá | 1.02              |
+| Šunkový salám                    | 1.85              |
+| Jablka konzumní                  | 2.01              |
+| Pečivo pšeničné bílé             | 2.2               |
+| Hovězí maso zadní bez kosti      | 2.53              |
+| Kapr živý                        | 2.6               |
+| Jakostní víno bílé               | 2.7               |
+| Pivo výčepní, světlé, lahvové    | 2.85              |
+| Eidamská cihla                   | 2.92              |
+| Mléko polotučné pasterované      | 2.98              |
+| Rostlinný roztíratelný tuk       | 3.23              |
+| Kuřata kuchaná celá              | 3.38              |
+| Pomeranče                        | 3.6               |
+| Jogurt bílý netučný              | 3.95              |
+| Chléb konzumní kmínový           | 3.97              |
+| Konzumní brambory                | 4.18              |
+| Rýže loupaná dlouhozrnná         | 5.0               |
+| Mrkev                            | 5.23              |
+| Pšeničná mouka hladká            | 5.24              |
+| Těstoviny vaječné                | 5.26              |
+| Vejce slepičí čerstvá            | 5.56              |
+| Máslo                            | 6.68              |
+| Papriky                          | 7.29              |
+
 * [Datový podklad](vyzkumna_otazka_3.sql)
 
 **4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
