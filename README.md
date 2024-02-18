@@ -92,6 +92,22 @@ V roce 2006 bylo možné si za průměrnou mzdu koupit 1312,99 kg chleba, nebo 1
 * [Datový podklad](vyzkumna_otazka_3.sql)
 
 **4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
+
+| common_year | price_change | payroll_change | difference |
+|-------------|--------------|----------------|------------|
+| 2013        | 5.1          | -1.56          | 6.66       |
+| 2012        | 6.72         | 2.93           | 3.79       |
+| 2017        | 9.63         | 6.17           | 3.46       |
+| 2011        | 3.35         | 2.33           | 1.02       |
+| 2010        | 1.95         | 1.91           | 0.04       |
+| 2007        | 6.74         | 6.88           | -0.14      |
+| 2008        | 6.19         | 7.69           | -1.5       |
+| 2014        | 0.74         | 2.57           | -1.83      |
+| 2015        | -0.54        | 2.60           | -3.14      |
+| 2016        | -1.21        | 3.64           | -4.85      |
+| 2018        | 2.16         | 7.70           | -5.54      |
+| 2009        | -6.41        | 3.07           | -9.48      |
+
 * [Datový podklad](vyzkumna_otazka_4.sql)
 
 **5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?**
