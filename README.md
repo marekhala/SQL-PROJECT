@@ -57,7 +57,7 @@ V roce 2006 bylo možné si za průměrnou mzdu koupit 1312,99 kg chleba, nebo 1
 
 **5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?**
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/marekhala/SQL-PROJECT/blob/main/graph_q5.png)https://github.com/marekhala/SQL-PROJECT/blob/main/graph_q5.png](https://raw.githubusercontent.com/marekhala/SQL-PROJECT/main/graph_q5.png)https://raw.githubusercontent.com/marekhala/SQL-PROJECT/main/graph_q5.png)
+![graph_q5](https://github.com/marekhala/SQL-PROJECT/assets/153138933/c96e18b6-8ea0-4bd6-95df-4575c21c5221)
 
 * [Datový podklad](vyzkumna_otazka_5.sql)
 
