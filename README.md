@@ -49,15 +49,11 @@ V roce 2006 bylo možné si za průměrnou mzdu koupit 1312,99 kg chleba, nebo 1
 
 | common_year  | avg_payroll_per_year | product_name | price | unit | units_per_payroll | unit |
 | ------------ | -------------------- | ------------ | ----- | ---- | ----------------- | ---- |
-| 2006  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 2018  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 2006  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 2018  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|2006|  21165.18|	Chléb konzumní kmínový|	    16.12| kg|	1312.98	kg|
+|2018|	33091.45|	Chléb konzumní kmínový|    	24.24| kg|	1365.16	kg|
+|2006|	21165.18|	Mléko polotučné pasterované|	14.44|	l|	1465.73	l|
+|2018|	33091.45|	Mléko polotučné pasterované|	19.82|	l|	1669.6	l|
 
-2006	21165.18	Chléb konzumní kmínový	16.12	kg	1312.98	kg
-2018	33091.45	Chléb konzumní kmínový	24.24	kg	1365.16	kg
-2006	21165.18	Mléko polotučné pasterované	14.44	l	1465.73	l
-2018	33091.45	Mléko polotučné pasterované	19.82	l	1669.6	l
 
 * [Datový podklad](vyzkumna_otazka_2.sql)
 
