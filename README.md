@@ -60,7 +60,7 @@ V roce 2006 bylo možné si za průměrnou mzdu koupit 1312,99 kg chleba, nebo 1
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 
 | product_name                     | percentage_growth |
-|----------------------------------|-------------------|
+|:---------------------------------|:------------------|
 | Cukr krystalový                  | -1.92             |
 | Rajská jablka červená kulatá     | -0.74             |
 | Banány žluté                     | 0.81              |
