@@ -44,7 +44,7 @@ Data pochází z Portálu otevřených dat ČR.
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
 | common_year | industry                                                     | avg_payroll | previous_year_avg_payroll | yoy_percentage_change | trend    |
-|-------------|--------------------------------------------------------------|-------------|---------------------------|-----------------------|----------|
+|:------------|:-------------------------------------------------------------|:------------|:--------------------------|:----------------------|:---------|
 | 2009        | Činnosti v oblasti nemovitostí                               | 20706.00    | 20790.25                  | -0.41 %               | decrease |
 | 2009        | Těžba a dobývání                                             | 28360.50    | 29272.50                  | -3.12 %               | decrease |
 | 2009        | Ubytování, stravování a pohostinství                         | 12333.50    | 12471.50                  | -1.11 %               | decrease |
