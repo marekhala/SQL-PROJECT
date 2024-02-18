@@ -42,6 +42,35 @@ Data pochází z Portálu otevřených dat ČR.
 
 ## VÝZKUMNÉ OTÁZKY
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
+
+| common_year | industry                                                     | avg_payroll | previous_year_avg_payroll | yoy_percentage_change | trend    |
+|-------------|--------------------------------------------------------------|-------------|---------------------------|-----------------------|----------|
+| 2009        | Činnosti v oblasti nemovitostí                               | 20706.00    | 20790.25                  | -0.41 %               | decrease |
+| 2009        | Těžba a dobývání                                             | 28360.50    | 29272.50                  | -3.12 %               | decrease |
+| 2009        | Ubytování, stravování a pohostinství                         | 12333.50    | 12471.50                  | -1.11 %               | decrease |
+| 2009        | Zemědělství, lesnictví, rybářství                            | 17644.50    | 17763.75                  | -0.67 %               | decrease |
+| 2010        | Profesní, vědecké a technické činnosti                       | 31601.75    | 31791.25                  | -0.60 %               | decrease |
+| 2010        | Veřejná správa a obrana; povinné sociální zabezpečení        | 26943.50    | 27034.50                  | -0.34 %               | decrease |
+| 2010        | Vzdělávání                                                   | 23023.00    | 23416.00                  | -1.68 %               | decrease |
+| 2011        | Doprava a skladování                                         | 23062.00    | 23062.50                  | 0.00 %                | decrease |
+| 2011        | Ubytování, stravování a pohostinství                         | 13131.25    | 13205.25                  | -0.56 %               | decrease |
+| 2011        | Veřejná správa a obrana; povinné sociální zabezpečení        | 26330.75    | 26943.50                  | -2.27 %               | decrease |
+| 2011        | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu  | 40201.50    | 40295.75                  | -0.23 %               | decrease |
+| 2013        | Administrativní a podpůrné činnosti                          | 16829.25    | 17040.50                  | -1.24 %               | decrease |
+| 2013        | Činnosti v oblasti nemovitostí                               | 22151.50    | 22552.50                  | -1.78 %               | decrease |
+| 2013        | Informační a komunikační činnosti                            | 46155.00    | 46641.00                  | -1.04 %               | decrease |
+| 2013        | Kulturní, zábavní a rekreační činnosti                       | 20510.50    | 20808.25                  | -1.43 %               | decrease |
+| 2013        | Peněžnictví a pojišťovnictví                                 | 46316.50    | 50800.50                  | -8.83 %               | decrease |
+| 2013        | Profesní, vědecké a technické činnosti                       | 31824.75    | 32816.75                  | -3.02 %               | decrease |
+| 2013        | Stavebnictví                                                 | 22379.25    | 22849.75                  | -2.06 %               | decrease |
+| 2013        | Těžba a dobývání                                             | 31486.50    | 32540.25                  | -3.24 %               | decrease |
+| 2013        | Velkoobchod a maloobchod; opravy a údržba motorových vozidel | 23129.75    | 23323.75                  | -0.83 %               | decrease |
+| 2013        | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu  | 40761.75    | 42657.25                  | -4.44 %               | decrease |
+| 2013        | Zásobování vodou; činnosti související s odpady a sanacemi   | 23615.75    | 23717.50                  | -0.43 %               | decrease |
+| 2014        | Těžba a dobývání                                             | 31301.75    | 31486.50                  | -0.59 %               | decrease |
+| 2015        | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu  | 40452.50    | 41093.75                  | -1.56 %               | decrease |
+| 2016        | Těžba a dobývání                                             | 31626.25    | 31808.50                  | -0.57 %               | decrease |
+
 * [Datový podklad](vyzkumna_otazka_1.sql)
 
 **2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**  
