@@ -87,6 +87,8 @@ Data pochází z Portálu otevřených dat ČR.
 | 2006        | 21165.18             | Mléko polotučné pasterované | 14.44 | l    | 1465.73           | l    |
 | 2018        | 33091.45             | Mléko polotučné pasterované | 19.82 | l    | 1669.6            | l    |
 
+<br> <br>
+
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 
 * [Datový podklad](vyzkumna_otazka_3.sql)
@@ -121,6 +123,7 @@ Data pochází z Portálu otevřených dat ČR.
 | Máslo                            | 6.68              |
 | Papriky                          | 7.29              |
 
+<br> <br> 
 
 **4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
 
@@ -141,6 +144,7 @@ Data pochází z Portálu otevřených dat ČR.
 | 2018        | 2.16         | 7.70           | -5.54      |
 | 2009        | -6.41        | 3.07           | -9.48      |
 
+<br> <br> 
 
 **5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?**
 
