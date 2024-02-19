@@ -43,6 +43,8 @@ Data pochází z Portálu otevřených dat ČR.
 ## VÝZKUMNÉ OTÁZKY
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
+* [Datový podklad](vyzkumna_otazka_1.sql)
+
 | common_year | industry                                                     | avg_payroll | previous_year_avg_payroll | yoy_percentage_change | trend    |
 |:------------|:-------------------------------------------------------------|:------------|:--------------------------|:----------------------|:---------|
 | 2009        | Činnosti v oblasti nemovitostí                               | 20706.00    | 20790.25                  | -0.41 %               | decrease |
@@ -71,7 +73,6 @@ Data pochází z Portálu otevřených dat ČR.
 | 2015        | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu  | 40452.50    | 41093.75                  | -1.56 %               | decrease |
 | 2016        | Těžba a dobývání                                             | 31626.25    | 31808.50                  | -0.57 %               | decrease |
 
-* [Datový podklad](vyzkumna_otazka_1.sql)
 
 **2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**  
 
@@ -87,6 +88,8 @@ Data pochází z Portálu otevřených dat ČR.
 
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 
+* [Datový podklad](vyzkumna_otazka_3.sql)
+  
 | product_name                     | percentage_growth |
 |:---------------------------------|:------------------|
 | Cukr krystalový                  | -1.92             |
@@ -117,9 +120,10 @@ Data pochází z Portálu otevřených dat ČR.
 | Máslo                            | 6.68              |
 | Papriky                          | 7.29              |
 
-* [Datový podklad](vyzkumna_otazka_3.sql)
 
 **4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
+
+* [Datový podklad](vyzkumna_otazka_4.sql)
 
 | common_year | price_change | payroll_change | difference |
 |-------------|--------------|----------------|------------|
@@ -136,9 +140,10 @@ Data pochází z Portálu otevřených dat ČR.
 | 2018        | 2.16         | 7.70           | -5.54      |
 | 2009        | -6.41        | 3.07           | -9.48      |
 
-* [Datový podklad](vyzkumna_otazka_4.sql)
 
 **5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?**
+
+* [Datový podklad](vyzkumna_otazka_5.sql)
 
 ![graph_q5](https://github.com/marekhala/SQL-PROJECT/assets/153138933/c96e18b6-8ea0-4bd6-95df-4575c21c5221)
 
@@ -157,5 +162,4 @@ Data pochází z Portálu otevřených dat ČR.
 | 2017        | 5.17                  | 9.63                    | 6.17                      |
 | 2018        | 3.2                   | 2.16                    | 7.70                      |
 
-* [Datový podklad](vyzkumna_otazka_5.sql)
 
