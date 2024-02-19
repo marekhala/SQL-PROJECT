@@ -73,7 +73,7 @@ Data pochází z Portálu otevřených dat ČR.
 | 2015        | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu  | 40452.50    | 41093.75                  | -1.56 %               | decrease |
 | 2016        | Těžba a dobývání                                             | 31626.25    | 31808.50                  | -0.57 %               | decrease |
 
-<br> 
+<br> <br> 
 
 **2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**  
 
