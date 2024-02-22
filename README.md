@@ -79,7 +79,8 @@ Většina odvětví v průběhu zaznamenala růst mezd, s výjimkou roku 2013, k
 
 **2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**  
 
-* V roce 2006 bylo možné si za průměrnou mzdu koupit 1312,99 kg chleba, nebo 1465,74 litrů mléka. V roce 2018 se dalo za průměrnou mzdu koupit 1365,17 kg chleba, nebo 1669,61 litrů mléka.
+V roce 2006 bylo možné si za průměrnou mzdu koupit 1312,99 kg chleba, nebo 1465,74 litrů mléka. V roce 2018 se dalo za průměrnou mzdu koupit 1365,17 kg chleba, nebo 1669,61 litrů mléka.
+  
 * [Datový podklad](vyzkumna_otazka_2.sql)
 
 | common_year | avg_payroll_per_year | product_name                | price | unit | units_per_payroll | unit |
@@ -92,6 +93,8 @@ Většina odvětví v průběhu zaznamenala růst mezd, s výjimkou roku 2013, k
 <br> <br>
 
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
+
+U dvou produktů (Cukr krystalový a Rajská jablka červená kulatá) došlo dokonce k percentuálnímu meziročnímu poklesu cen. Naopak nejrychleji zdražovaly papriky s průměrným meziročním nárůstem 7,29 %.
 
 * [Datový podklad](vyzkumna_otazka_3.sql)
   
@@ -128,6 +131,8 @@ Většina odvětví v průběhu zaznamenala růst mezd, s výjimkou roku 2013, k
 <br> <br> 
 
 **4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
+
+
 
 * [Datový podklad](vyzkumna_otazka_4.sql)
 
