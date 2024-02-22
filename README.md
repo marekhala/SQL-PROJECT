@@ -43,6 +43,8 @@ Data pochází z Portálu otevřených dat ČR.
 ## VÝZKUMNÉ OTÁZKY
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
+Většina odvětví v průběhu zaznamenala růst mezd, s výjimkou roku 2013, kdy došlo k poklesu mezd v 11 odvětvích. Níže uvedená tabulka obsahuje informace o letech a všech odvětvích, kde došlo k poklesu mezd ve srovnání s předchozím rokem.
+
 * [Datový podklad](vyzkumna_otazka_1.sql)
 
 | common_year | industry                                                     | avg_payroll | previous_year_avg_payroll | yoy_percentage_change | trend    |
