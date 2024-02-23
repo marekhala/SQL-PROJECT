@@ -132,7 +132,7 @@ U dvou produktů (Cukr krystalový a Rajská jablka červená kulatá) došlo do
 
 **4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
 
-
+Nejvýraznější rozdíl nastal v roce 2013, kdy meziroční nárust cen potravin byl o 6,66 % vyšší než růst mezd.
 
 * [Datový podklad](vyzkumna_otazka_4.sql)
 
@@ -154,6 +154,8 @@ U dvou produktů (Cukr krystalový a Rajská jablka červená kulatá) došlo do
 <br> <br> 
 
 **5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?**
+
+Z grafu je zřejmé, že výška HDP má vliv na změny ve mzdách a cenách potravin. V některých letech však můžeme zpozorovat, že dochází ke zpožděné nebo dokonce mírně odlišné reakci, a to z důvodu dalších ekonomických faktorů.
 
 * [Datový podklad](vyzkumna_otazka_5.sql)
 
